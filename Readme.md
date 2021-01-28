@@ -17,3 +17,4 @@ fourth git push origin master
 ## Trying branching
 
 create branch using git checkout -b name for the branch
+not seem to be working
