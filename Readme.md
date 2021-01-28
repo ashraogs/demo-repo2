@@ -13,3 +13,7 @@ First check git status -- displays what all changed
 second run git add .
 third git commit -m "any message to display in descritpion"
 fourth git push origin master
+
+## Trying branching
+
+create branch using git checkout -b name for the branch
