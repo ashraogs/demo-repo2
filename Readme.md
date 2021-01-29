@@ -29,7 +29,7 @@ run git branch "branch name "
 run git puch -u "anme of the branch" -- this will push all the cnages in the branch to git
 then go back to git hub and compare and create a pull request to main branch
 
-##Updating changes in master to branches
+## Updating changes in master to branches
 
 First update master, if you add a new file then you need to run git add
 If you jus tmodified existing file then directly run git commit -am message of what was updated.
